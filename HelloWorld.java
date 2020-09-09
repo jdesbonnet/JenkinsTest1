@@ -5,5 +5,5 @@ public class HelloWorld {
 		System.out.println("Hello world v5!");
 	}
 
-	deliberate syntax error
+	//deliberate syntax error
 }
